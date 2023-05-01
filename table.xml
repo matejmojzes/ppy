@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <number_column>1.0</number_column>
+    <text_column>foo</text_column>
+  </row>
+  <row>
+    <number_column>2.0</number_column>
+    <text_column>bar</text_column>
+  </row>
+  <row>
+    <number_column/>
+    <text_column>baz</text_column>
+  </row>
+</data>
